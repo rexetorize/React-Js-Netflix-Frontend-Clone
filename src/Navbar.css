@@ -1,0 +1,25 @@
+.Netflix-logo{
+    height :    30px;
+    object-fit:  contain;
+}
+
+.Avatar{
+    height : 30px;
+    object-fit: contain;
+    position: relative;
+    right: 30px;
+}
+
+
+.navbar{
+    width: 100%;
+    position : fixed;
+    
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+
+.dark{
+    background: #000;
+}
